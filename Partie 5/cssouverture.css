@@ -1,0 +1,21 @@
+h1, h2 {
+    text-align: center;
+}
+
+.box {
+    width: auto;
+}
+.cartons {
+    padding: 50px 0px 50px;
+    display: flex;
+    justify-content: space-around;
+}
+
+#new {
+    text-align: center;
+}
+
+#new img {
+    width: 500px;
+    max-width: 50%;
+}
